@@ -39,7 +39,6 @@ const HomePage = () => {
       </div>
       <DiscriprionDrawer />
       <Outlet/>
-      <p>After stash command testing</p>
       <Footer />
     </div>
   )
