@@ -1,0 +1,34 @@
+  .arrow {
+    color: #0D6EFD;
+  }
+  .sidebar-content {
+    overflow: scroll;
+  }
+
+  .container-fluid img {
+    width: auto;
+    height: 350px;
+  }
+
+  .container-fluid .pd-name {
+    color: #000;
+  }
+
+  .container-fluid .p-stock {
+    font-style: bold;
+  }
+
+  .container-fluid .quantity button {
+    background-color: #0D6EFD;
+    border-radius: 5px;
+    width: 60px;
+    color: white;
+  }
+
+
+  .drawer-width {
+    width: 550px !important;
+  overflow: scroll;
+
+
+  }

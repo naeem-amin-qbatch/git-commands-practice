@@ -1,0 +1,30 @@
+.col-style {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hrCart{
+    border: rgb(0, 0, 0);
+}
+.hrCartTotal{
+    border: rgb(0, 0, 0);
+    width: 100%;
+}
+.cart-img {
+    height: 500px;
+}
+
+img {
+    height: 500px !important;
+}
+
+.cart-title {
+    width: 25%;
+    height: 80px;
+    background: rgb(0, 0, 0, .5);
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -40%);
+}
+
