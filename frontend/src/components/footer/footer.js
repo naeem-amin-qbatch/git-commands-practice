@@ -8,6 +8,7 @@ function Footer() {
         <h6 className='d-flex align-items-center'>Copyright 2022 - All Rights Reserved.</h6>
       </div>
       <h2>Use of git yes</h2>
+      <p>Stash git command testing in footer component</p>
     </div>
   )
 }
