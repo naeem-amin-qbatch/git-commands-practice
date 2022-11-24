@@ -9,6 +9,7 @@ function Footer() {
       </div>
       <h2>Use of git yes</h2>
       <p>Stash git command testing in footer component</p>
+      <p>Stash git command testing in footer component</p>
     </div>
   )
 }
